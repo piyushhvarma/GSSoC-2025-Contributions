@@ -1,4 +1,4 @@
-![GSSoC Banner](https://github.com/piyushhvarma/GSSoC-2025-Contributions/blob/main/banner.png?raw=true)
+![GSSoC Banner](https://github.com/piyushhvarma/GSSoC-2025-Contributions/blob/main/banner.jpg?raw=true)
 
 # 🚀 GSSoC 2025 Open Source Contributions
 
