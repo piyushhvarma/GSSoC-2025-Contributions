@@ -34,4 +34,4 @@ Participating in GSSoC 2025 gave me the chance to learn from real-world projects
 
 ## 📸 Banner Preview
 
-![GSSoC Banner](https://raw.githubusercontent.com/piyushhvarma/GSSoC-2025-Contributions/main/banner.png)
+![GSSoC Banner]
