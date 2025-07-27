@@ -18,9 +18,19 @@
 - ✅ PR: [#148](https://github.com/Kritika75/TheCawnporeMag.github.io/pull/148)  
 - 📝 Description: Enhanced dark mode and improved toolbar alignment for a smoother user experience.
 
+- ✅ PR: [#177](https://github.com/Kritika75/TheCawnporeMag.github.io/pull/177)  
+- 📝 Description: Fixed a critical UI bug on `about.html` where navbar links were not visible due to poor contrast.  
+    Key Fixes:
+- Applied consistent dark text color for navbar links:
+
 ### 3. [Desh Darshan](https://github.com/sampadatiwari30/DeshDarshan)
 - ✅ PR: [#140](https://github.com/sampadatiwari30/DeshDarshan/pull/140)  
 - 📝 Description: Removed a thin white line issue in the About Us section to improve design consistency.
+
+### 4. [NITraMITra](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io)
+- ✅ PR: [#146](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/146)
+- 📝 Description: This PR resolves the issue where heading text like "Resources", "Games", and "Gallery" in the Services section was not clearly visible in dark mode due to low contrast.
+By updating the CSS variable --primary-text-color within the .dark-mode scope, the fix ensures better readability and accessibility across themes.
 
 ---
 
