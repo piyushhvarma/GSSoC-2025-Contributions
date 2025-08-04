@@ -32,6 +32,11 @@
 - 📝 Description: This PR resolves the issue where heading text like "Resources", "Games", and "Gallery" in the Services section was not clearly visible in dark mode due to low contrast.
 By updating the CSS variable --primary-text-color within the .dark-mode scope, the fix ensures better readability and accessibility across themes.
 
+### 5. [ReWear](https://github.com/AKing-283/Rewear)
+- ✅ PR :[#11](https://github.com/AKing-283/ReWear/pull/11)  
+- 📝 Description: This pull request focuses on redesigning the footer section of the **ReWear website** to better align with its visual branding, mission of sustainability, and accessibility goals.
+The original footer was minimal, lacked structure, and didn’t contribute to the overall user experience. The new design implements a responsive, content-rich footer that improves navigation, trust, and consistency across the platform.
+
 ---
 
 ## 🌱 What I Learned
