@@ -4,7 +4,7 @@
 
 **Name:** Piyush Varma  
 **Program:** GirlScript Summer of Code 2025  
-**Domain:** Frontend Development | UI Fixes | Clean Code | Team Collaboration
+**Domain:** Web Engineering • UI/UX Design Systems • Scalable Frontend Architecture • Accessibility & Performance Optimization • API Integration • Open-Source Contribution & Collaboration
 
 ---
 
@@ -58,10 +58,12 @@ The original footer was minimal, lacked structure, and didn’t contribute to th
 
 ## 🌱 What I Learned
 
-- 🔍 Navigating large codebases
-- 🛠️ Making clean UI fixes with HTML/CSS
-- 📦 Working with Git, GitHub, and Pull Requests
-- 🤝 Open-source collaboration and communication with maintainers
+- 🔍 How to explore and understand large codebases efficiently  
+- 🛠️ Implementing clean and responsive UI enhancements with HTML, CSS, and React  
+- 📦 Using Git & GitHub effectively for version control, branching, and pull requests  
+- 🤝 Collaborating in open-source: communicating with maintainers, addressing feedback, and following best practices  
+- ⚡ Improving problem-solving by debugging issues and ensuring accessibility & responsiveness across devices  
+- 🎯 Writing clear PR descriptions and maintaining structured commit history for better project contribution
 
 ---
 
