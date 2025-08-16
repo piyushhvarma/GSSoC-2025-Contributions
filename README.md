@@ -38,12 +38,20 @@ By updating the CSS variable --primary-text-color within the .dark-mode scope, t
 The original footer was minimal, lacked structure, and didn’t contribute to the overall user experience. The new design implements a responsive, content-rich footer that improves navigation, trust, and consistency across the platform.
 
 ### 6. [RigCrafter](https://github.com/SamXop123/RigCrafter)
-- ✅ PR: [#48](https://github.com/SamXop123/RepoName/pull/48)  
+- ✅ PR: [#48](https://github.com/SamXop123/RigCrafter/pull/48)  
 - 📝 Description: Added a "Back to Top" button with smooth scroll, fade-in animation, and global integration across all pages for improved navigation.
 
 ### 7. [Research-Paper-Organizer](https://github.com/supriya46788/Research-Paper-Organizer)
-- ✅ PR: [#94](https://github.com/supriya46788/RepoName/pull/94)  
+- ✅ PR: [#94](https://github.com/supriya46788/Research-Paper-Organizer/pull/94)  
 - 📝 Description: Replaced year range number inputs with dropdown selects for "From Year" and "To Year," ensuring compatibility with existing filtering logic and improving overall UI/UX.
+
+### 8. [My-Habit-Tracker](https://github.com/Riti2407/my-habit-tracker)
+- ✅ PR: [#44](https://github.com/Riti2407/my-habit-tracker/pull/44)  
+- 📝 Description: Implemented a **Monthly Summary Page** with streaks, completion percentages, progress bars, and month navigation to give users detailed insights into their habit-tracking progress.
+
+- ✅ PR: [#68](https://github.com/Riti2407/my-habit-tracker/pull/68)  
+- 📝 Description: Added a **Data Export feature** (JSON/CSV) and modernized the UI/UX with improved spacing, shadows, typography, hover effects, and Dark Mode fixes.
+
 
 
 ---
