@@ -37,6 +37,10 @@ By updating the CSS variable --primary-text-color within the .dark-mode scope, t
 - 📝 Description: This pull request focuses on redesigning the footer section of the **ReWear website** to better align with its visual branding, mission of sustainability, and accessibility goals.
 The original footer was minimal, lacked structure, and didn’t contribute to the overall user experience. The new design implements a responsive, content-rich footer that improves navigation, trust, and consistency across the platform.
 
+### 6. [RigCrafter](https://github.com/SamXop123/RigCrafter)
+- ✅ PR: [#48](https://github.com/SamXop123/RepoName/pull/48)  
+- 📝 Description: Added a "Back to Top" button with smooth scroll, fade-in animation, and global integration across all pages for improved navigation.
+
 ---
 
 ## 🌱 What I Learned
