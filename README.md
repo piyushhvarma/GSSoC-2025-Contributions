@@ -41,6 +41,11 @@ The original footer was minimal, lacked structure, and didn’t contribute to th
 - ✅ PR: [#48](https://github.com/SamXop123/RepoName/pull/48)  
 - 📝 Description: Added a "Back to Top" button with smooth scroll, fade-in animation, and global integration across all pages for improved navigation.
 
+### 7. [Research-Paper-Organizer](https://github.com/supriya46788/Research-Paper-Organizer)
+- ✅ PR: [#94](https://github.com/supriya46788/RepoName/pull/94)  
+- 📝 Description: Replaced year range number inputs with dropdown selects for "From Year" and "To Year," ensuring compatibility with existing filtering logic and improving overall UI/UX.
+
+
 ---
 
 ## 🌱 What I Learned
