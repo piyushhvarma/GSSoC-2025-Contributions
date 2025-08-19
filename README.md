@@ -52,7 +52,12 @@ The original footer was minimal, lacked structure, and didn’t contribute to th
 - ✅ PR: [#68](https://github.com/Riti2407/my-habit-tracker/pull/68)  
 - 📝 Description: Added a **Data Export feature** (JSON/CSV) and modernized the UI/UX with improved spacing, shadows, typography, hover effects, and Dark Mode fixes.
 
-
+- ✅ PR: [#77](https://github.com/Riti2407/my-habit-tracker/pull/77)  
+- 📝 Description: Introduced **custom CSS styling for the Add Habit section**, making the form clean, centered, and user-friendly.  
+  Key Enhancements:  
+  - Styled inputs with padding, rounded corners, hover/focus effects  
+  - Modern button design with transitions  
+  - Improved spacing & alignment for better UX  
 
 ---
 
